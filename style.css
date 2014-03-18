@@ -1,0 +1,33 @@
+body, html {
+margin:0px; 
+padding:0px;
+text-align:center; 
+}
+.container{
+width:810px;
+margin:0 auto; 
+text-align:left; tex-align:center; 
+}
+/*Стиль для верхнего div блока*/
+.header{
+background-color:green;
+}
+/*Стиль для лывого div блока*/
+.left{
+background-color:red;
+width:180px; 
+float:left;
+}
+/*Стиль для div блок по центру*/
+.content{
+background-color:yellow;
+margin:0px;
+margin-left:181px;
+}
+.clear{
+clear:left;
+}
+/*Стиль для нижнього div блока*/
+.footer{
+background-color:blue;
+}
